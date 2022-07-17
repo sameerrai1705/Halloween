@@ -6,3 +6,5 @@ https://sameerrai1705.github.io/Halloween/
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+![halloween](/preview.png)
